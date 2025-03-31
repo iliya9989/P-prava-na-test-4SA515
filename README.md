@@ -2,7 +2,7 @@
 Níže najdeš detailní shrnutí klíčových konceptů užitečných pro přípravu na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů** na VŠE. Veškeré informace organizačního charakteru byly vynechány a rozpracovány byly pouze obsahově důležité části výuky.
 
 ---
-#1
+# 1
 ## Klíčové koncepty předmětu 4SA515 - Řízení bezpečnosti informačních systémů:
 
 ### Systém řízení bezpečnosti informací (ISMS – Information Security Management System)
@@ -109,7 +109,7 @@ SKU (služby koncovému uživateli):
 
 Tento přehled pokrývá klíčová témata a koncepty, které jsou nezbytné k dobré přípravě na test z předmětu **4SA515 - Řízení bezpečnosti informačních systémů**.
 
-#2
+# 2
 Níže najdeš podrobný souhrn užitečný pro přípravu na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**, konkrétně ke kapitole **Hodnocení aktiv** (z dokumentu **C02-Hodnocení aktiv.pdf**) a doplňujícím informacím z dokumentu **RAMSES**.
 
 ---
@@ -227,7 +227,7 @@ Pro konkrétní SKU (služby koncovým uživatelům) je nutné vytvořit:
 
 Tento detailní souhrn pokrývá základní koncepty potřebné pro pochopení hodnocení aktiv a jejich dopadů v ISMS, což je klíčové pro úspěšné zvládnutí testu z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
-#3
+# 3
 Níže najdeš detailní shrnutí konceptů důležitých pro test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**, konkrétně kapitoly **Rizika a jejich řízení** (z dokumentu **03-Rizika.pdf** a zadání **C03_Zadani.pdf**). Vše je doplněno o vysvětlení pojmů, postupů a metodických kroků potřebných ke správnému zvládnutí testu.
 
 ---
@@ -350,7 +350,7 @@ Příklad kategorií opatření (přehledově dle ISO 27001):
 
 Tento detailní přehled poskytuje jasnou orientaci v oblasti řízení rizik, což je klíčová součást znalostí pro zvládnutí předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
-#4
+# 4
 Níže nalezneš podrobný souhrn ke kapitole **„Priorita opatření“** z předmětu **4SA515 – Řízení bezpečnosti informačních systémů** podle nahraného dokumentu **„C04_Priorita opatření.pdf“** a doplňujících dokumentů z normy ISO/IEC 27002.
 
 ---
@@ -471,7 +471,7 @@ Konkrétní opatření musí odpovídat typu aktiva a charakteru rizika.
 
 Tento souhrn detailně pokrývá veškeré koncepty nezbytné pro zvládnutí tématu prioritizace bezpečnostních opatření, což je důležitá součást přípravy na test předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
-#5
+# 5
 Níže najdeš podrobný souhrn užitečný pro přípravu na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**, konkrétně ke kapitole **„Zvládání rizik“** na základě dokumentu **„C05_Zvladani_rizik.pdf“**:
 
 ---
@@ -597,7 +597,7 @@ Jedná se o závěrečný dokument shrnující všechna opatření navržená na
 
 Tento detailní přehled pokrývá základní koncepty potřebné pro pochopení a správnou aplikaci zvládání rizik v rámci ISMS, což je důležitá část přípravy na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
-#6
+# 6
 Níže nalezneš detailní shrnutí prezentace **„Cybersecurity Fundamentals I – Cíle, role a domény“** (z dokumentu CSX-1.pdf), které je užitečné pro přípravu na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
 ---
@@ -734,7 +734,7 @@ Pět hlavních domén kybernetické bezpečnosti zahrnuje komplexní oblasti, ve
 
 Toto shrnutí pokrývá klíčové body prezentace a je vhodným podkladem pro přípravu na test z předmětu **4SA515 – Řízení bezpečnosti informačních systémů**.
 
-#7
+# 7
 Zde jsou správné odpovědi na otázky uvedené v obrázcích a vysvětlení každé z nich:
 
 ---
